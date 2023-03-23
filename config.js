@@ -43,7 +43,7 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 // if you don't have it, type "-" or leave it alone so that there are credits :v
 global.sig = 'https://instagram.com/itx_ahmad.ali' //Link Instagrammu
 global.sgh = 'https://github.com/xIKRATOSx' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DxIb5oWzpg24mmg9D9zw5Y'
+global.sgc = 'https://chat.whatsapp.com/DXFQ0nTW6aSKmRpEcitx3o'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
@@ -53,15 +53,15 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '94764497078' //Nomor Bot
-global.nomorown = '94764497078' //Nomor Owner
-global.namebot = 'WA-MD-v1' //Nama Bot
-global.nameown = 'sandaru' // Nama Owner
+global.nomorbot = '94720883381' //Nomor Bot
+global.nomorown = '94720883381' //Nomor Owner
+global.namebot = 'KAVINDA BOT NEW' //Nama Bot
+global.nameown = 'KAVINDA' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['94764497078', 'sandaru', true] //Replace your number with your name
+  ['94720883381', 'KAVINDA', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
